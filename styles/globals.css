@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    h1 {
+        @apply text-4xl sm:text-6xl py-5 font-rock3d mb-10;
+    }
+
+    h3 {
+        @apply text-xl p-3 bg-yellow-200 mb-3 mt-10;
+    }
+}

@@ -78,3 +78,4 @@ If you have suggestions that would make this site better, I would love to check 
 - [HeroIcons](https://heroicons.com/)
 - [Work illustrations by Storyset](https://storyset.com/work")
 - [UI Kit from Apple](https://developer.apple.com/design/resources/)
+- [Rick and Morty API](https://rickandmortyapi.com/graphql/)

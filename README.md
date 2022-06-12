@@ -69,8 +69,8 @@ If you have suggestions that would make this site better, I would love to check 
 ## Contact
 
 - [My portfolio page](https://portfolio-mariushesby.vercel.app/)
-- [My LinkedIn page](www.linkedin.com/in/marius-hesby/)
-- [My E-mail](marius.r.hesby@gmail.com)
+- [My LinkedIn page](https://www.linkedin.com/in/marius-hesby/)
+- [My E-mail](mailto:marius.r.hesby@gmail.com)
 
 ## Acknowledgments
 

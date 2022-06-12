@@ -68,13 +68,13 @@ If you have suggestions that would make this site better, I would love to check 
 
 ## Contact
 
-[My portfolio page](https://portfolio-mariushesby.vercel.app/)
-[My LinkedIn page](www.linkedin.com/in/marius-hesby/)
-[My E-mail](marius.r.hesby@gmail.com)
+- [My portfolio page](https://portfolio-mariushesby.vercel.app/)
+- [My LinkedIn page](www.linkedin.com/in/marius-hesby/)
+- [My E-mail](marius.r.hesby@gmail.com)
 
 ## Acknowledgments
 
 - [CSS Tricks - Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [HeroIcons] (https://heroicons.com/)
+- [HeroIcons](https://heroicons.com/)
 - [Work illustrations by Storyset](https://storyset.com/work")
 - [UI Kit from Apple](https://developer.apple.com/design/resources/)

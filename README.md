@@ -74,7 +74,7 @@ If you have suggestions that would make this site better, I would love to check 
 
 ## Acknowledgments
 
-[CSS Tricks - Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-[HeroIcons] (https://heroicons.com/)
-[Work illustrations by Storyset](https://storyset.com/work")
-[UI Kit from Apple](https://developer.apple.com/design/resources/)
+- [CSS Tricks - Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [HeroIcons] (https://heroicons.com/)
+- [Work illustrations by Storyset](https://storyset.com/work")
+- [UI Kit from Apple](https://developer.apple.com/design/resources/)
